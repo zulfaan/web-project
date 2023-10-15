@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/**This is the header of the web **/
+header{
+    display: flex;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    justify-content: space-around;
+}
+header ul.menu{
+    display: flex;
+}
+header ul.menu li.submenu{
+    padding: 0 1em;
+}

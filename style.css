@@ -1,3 +1,17 @@
 a{
     text-decoration: none;
 }
+li{
+    list-style: none;
+}
+body{
+    background-color: red;
+}
+/**This is the header of the web **/
+header{
+    background-color:aqua;
+    font-family: 'Lato', sans-serif;
+}
+li .list-submenu{
+    display: none;
+}
