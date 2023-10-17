@@ -12,6 +12,17 @@ header{
 header ul.menu{
     display: flex;
 }
-header ul.menu li.submenu{
+header ul.menu li.submenu a.title-submenu{
+    font-size: 1.05em;
     padding: 0 1em;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+header ul.menu li.submenu a.not-list{
+    margin-top: 5px;
+}
+header ul.menu li.submenu .material-symbols-outlined {
+    margin-left: 5px;
+    padding-top: 5px
 }

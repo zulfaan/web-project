@@ -12,6 +12,12 @@ header{
     background-color:aqua;
     font-family: 'Lato', sans-serif;
 }
+ul li.submenu{
+    background-color: red;
+}
 li .list-submenu{
     display: none;
+}
+.material-symbols-outlined{
+    background-color: yellow;
 }
