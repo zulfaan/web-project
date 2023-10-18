@@ -16,7 +16,10 @@ ul li.submenu{
     background-color: red;
 }
 li .list-submenu{
-    display: none;
+    background-color: darkgreen;
+}
+li .list-submenu a{
+    color: aliceblue;
 }
 .material-symbols-outlined{
     background-color: yellow;
